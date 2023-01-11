@@ -1,0 +1,12 @@
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\bin\Debug\ChatHost.exe.config
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\bin\Debug\ChatHost.exe
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\bin\Debug\ChatHost.pdb
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\bin\Debug\ClassLibrary1.dll
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\bin\Debug\ClassLibrary1.pdb
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\bin\Debug\ClassLibrary1.dll.config
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\obj\Debug\ChatHost.exe
+J:\Users\Lorem\source\repos\ClassLibrary1\ChatHost\obj\Debug\ChatHost.pdb
